@@ -1,2 +1,5 @@
-# Capstone-consulting
-Predictive and prescriptive analytics for better appointment Management
+# Operationalizing Predictive Analytics to Improve Appointment Management in the Home Remodeling Industry
+
+The project was our Capstone Project at Purdue University.
+
+This study examines and tests several supervised learning methodologies to predict and maximize appointment conversions. Our research is motivated by costs incurred by the industry-agnostic problem of employee idle time, one of most significant consequences of canceled appointments. Our model considers the impact of each factors to predict the appointment conversion rate for each lead and make scheduling recommendations to boost their resource forecasting efforts, optimizing resource allocation and management. This is the pioneering study of its kind in the home remodeling industry. While our solution is based on data and collaboration from a single national home remodeling firm, our methodological approach and solution are both industry agnostic and scalable, making it of interest to anyone interested in improving resource allocation and overall productivity.
