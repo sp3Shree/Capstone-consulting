@@ -1,5 +1,29 @@
 # Operationalizing Predictive Analytics to Improve Appointment Management in the Home Remodeling Industry
 
-The project was our Capstone Project at Purdue University.
+This project is the Capstone Project completed at Purdue University by our team.
 
-This study examines and tests several supervised learning methodologies to predict and maximize appointment conversions. Our research is motivated by costs incurred by the industry-agnostic problem of employee idle time, one of most significant consequences of canceled appointments. Our model considers the impact of each factors to predict the appointment conversion rate for each lead and make scheduling recommendations to boost their resource forecasting efforts, optimizing resource allocation and management. This is the pioneering study of its kind in the home remodeling industry. While our solution is based on data and collaboration from a single national home remodeling firm, our methodological approach and solution are both industry agnostic and scalable, making it of interest to anyone interested in improving resource allocation and overall productivity.
+## Project Overview
+
+This study examines and tests several supervised learning methodologies to predict and maximize appointment conversions. The research is motivated by the significant costs incurred due to no-shows and inefficient scheduling, which is a common challenge across the home remodeling industry and beyond.
+
+By leveraging predictive analytics, we aim to optimize appointment management, reduce cancellations, and improve overall operational efficiency for home remodeling businesses.
+
+## Features
+
+- Implementation of multiple supervised learning algorithms for appointment conversion prediction
+- Comparative analysis of different machine learning methodologies
+- Real-world data collection and preprocessing from the home remodeling industry
+- Actionable insights and recommendations for operational improvement
+
+## Technologies Used
+
+- Python (Data analysis and modeling)
+- scikit-learn (Machine Learning)
+- pandas, numpy (Data manipulation)
+- Jupyter Notebook (Prototyping and analysis)
+- Matplotlib, Seaborn (Visualization)
+
+## Results
+Developed predictive models that significantly improve appointment conversion rates.
+Provided industry partners with strategies for reducing no-shows and optimizing schedules.
+Insights can be adapted to other appointment-based industries facing similar challenges.
