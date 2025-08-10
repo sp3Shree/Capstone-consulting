@@ -24,6 +24,6 @@ By leveraging predictive analytics, we aim to optimize appointment management, r
 - Matplotlib, Seaborn (Visualization)
 
 ## Results
-Developed predictive models that significantly improve appointment conversion rates.
-Provided industry partners with strategies for reducing no-shows and optimizing schedules.
+Developed predictive models that significantly improve appointment conversion rates.<br />
+Provided industry partners with strategies for reducing no-shows and optimizing schedules.<br />
 Insights can be adapted to other appointment-based industries facing similar challenges.
